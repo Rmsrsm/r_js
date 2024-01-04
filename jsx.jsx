@@ -17,7 +17,8 @@ function App() {
         </ul>
       </nav>
       <main>
-        <section>
+
+        <section>  
           <h2>معلومات عنا</h2>
           <p>نحن نقدم أفضل المنتجات والخدمات لعملائنا</p>
         </section>
